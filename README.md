@@ -23,15 +23,17 @@ Switch smarter, type happier! Grab LMA KeySwitch and let your keyboard wave its 
 - [LMA KeySwitch 2.0 Mini - 60 MB](https://github.com/MIHEYUSA/LMA-KeySwitch/raw/main/LMA%20KEYSwitch%202.0%20mini.exe)
 - [LMA KeySwitch 1.0 - 60 MB](https://github.com/MIHEYUSA/LMA-KeySwitch/raw/main/LMA%20KEYSwitch%201.0.exe)
 
+## Watch It in Action! 🎥
+See LMA KeySwitch in action on YouTube:  
+- [LMA KeySwitch Demo](https://www.youtube.com/watch?v=Y8-PIm1afKs)
+
 ## Support the Dream 💸
-Loved it? Help me keep the magic alive!
-- [Buy Me a Coffee](https://buymeacoffee.com/miheyukraine)
-- [Monobank Donation](https://send.monobank.ua/jar/9niCaBNkUm)
-- [itch.io Page](https://mhusa87.itch.io/lma-keyswitch)
+Loved it? Help me keep the magic alive!  
+- [Buy Me a Coffee](https://buymeacoffee.com/miheyukraine)  
+- [Monobank Donation](https://send.monobank.ua/jar/9niCaBNkUm)  
+- [itch.io Page](https://mhusa87.itch.io/lma-keyswitch)  
 - [SourceForge](https://sourceforge.net/projects/lma-keyswitch/)
 
 ## LMA KeySwitch in Action! 🎬
-Check out the magic in motion:
+Check out the magic in motion:  
 ![LMA KeySwitch in Action](https://github.com/MIHEYUSA/LMA-KeySwitch/blob/main/logo_anim.gif)
-
----
