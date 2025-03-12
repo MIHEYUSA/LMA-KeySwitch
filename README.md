@@ -18,7 +18,7 @@
 
 -  Download Now 🎁  [GitHub](https://github.com/MIHEYUSA/LMA-KeySwitch) - [itch.io](https://mhusa87.itch.io/lma-keyswitch) - [SourceForge](https://sourceforge.net/projects/lma-keyswitch/)  
   
-- [LMA KeySwitch 2.0 Mini](https://github.com/MIHEYUSA/LMA-KeySwitch/raw/main/LMA%20KEYSwitch%202.0%20mini.exe) \ [LMA KeySwitch 2.0 Full](https://github.com/MIHEYUSA/LMA-KeySwitch/raw/main/LMA%20KEYSwitch%202.0.exe) \ [LMA KeySwitch 1.0 beta](https://github.com/MIHEYUSA/LMA-KeySwitch/raw/main/LMA%20KEYSwitch%201.0.exe)     
+- [LMA KeySwitch 2.0 Mini](https://github.com/MIHEYUSA/LMA-KeySwitch/blob/main/LMA%20KeySwitch%202.0%20mini.exe) \ [LMA KeySwitch 2.0 Full](https://github.com/MIHEYUSA/LMA-KeySwitch/blob/main/LMA%20KeySwitch%202.0.exe) \ [LMA KeySwitch 1.0 beta](https://github.com/MIHEYUSA/LMA-KeySwitch/blob/main/LMA%20KeySwitch%201.0.exe)     
 </td>
 <td align="center">
 
